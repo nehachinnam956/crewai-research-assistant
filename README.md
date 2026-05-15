@@ -94,12 +94,6 @@ The system produces a report with:
 
 ---
 
-## Resume Line
-
-> *"Built a 3-agent autonomous research pipeline using CrewAI with web search tool-calling, producing structured Business Intelligence reports without human intervention — demonstrating multi-agent orchestration, tool use, and sequential reasoning chains."*
-
----
-
 ## Tech Stack
 
 - **CrewAI 1.14+** — agent orchestration framework
